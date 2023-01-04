@@ -1,0 +1,3 @@
+[submodule "app/src/main/res/ota/json-schemas"]
+	path = app/src/main/res/ota/json-schemas
+	url = https://github.com/shymega/planet_ota_service_schemas.json
