@@ -1,13 +1,11 @@
 package co.uk.planetcom.apps.phones.android.ota;
 
-import android.content.Context;
 import android.os.Bundle;
 
 import com.google.android.material.snackbar.Snackbar;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.telephony.TelephonyManager;
 import android.view.View;
 
 import androidx.navigation.NavController;
